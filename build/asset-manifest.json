@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.50d026b6.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.aa1b652c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.aa1b652c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e7e5c54f.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e7e5c54f.js.map",
+    "static/js/2.65d3c471.chunk.js": "/React-Portfolio/static/js/2.65d3c471.chunk.js",
+    "static/js/2.65d3c471.chunk.js.map": "/React-Portfolio/static/js/2.65d3c471.chunk.js.map",
+    "static/js/3.d3b50b75.chunk.js": "/React-Portfolio/static/js/3.d3b50b75.chunk.js",
+    "static/js/3.d3b50b75.chunk.js.map": "/React-Portfolio/static/js/3.d3b50b75.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.50d026b6.chunk.css.map": "/React-Portfolio/static/css/main.50d026b6.chunk.css.map",
+    "static/js/2.65d3c471.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.65d3c471.chunk.js.LICENSE.txt",
+    "static/media/RESUME 2021-1.6f5cda78.jpg": "/React-Portfolio/static/media/RESUME 2021-1.6f5cda78.jpg",
+    "static/media/RESUME 2021-2.0f1b839b.jpg": "/React-Portfolio/static/media/RESUME 2021-2.0f1b839b.jpg",
+    "static/media/Screen Shot 2021-03-20 at 3.55.18 PM.961ffff8.png": "/React-Portfolio/static/media/Screen Shot 2021-03-20 at 3.55.18 PM.961ffff8.png",
+    "static/media/Screen Shot 2021-03-20 at 4.30.13 PM.2a929ede.png": "/React-Portfolio/static/media/Screen Shot 2021-03-20 at 4.30.13 PM.2a929ede.png",
+    "static/media/Screen Shot 2021-03-20 at 9.19.05 AM.65cef369.png": "/React-Portfolio/static/media/Screen Shot 2021-03-20 at 9.19.05 AM.65cef369.png",
+    "static/media/Screen Shot 2021-03-21 at 9.49.08 AM.01142156.png": "/React-Portfolio/static/media/Screen Shot 2021-03-21 at 9.49.08 AM.01142156.png",
+    "static/media/portfolio-pic.eed2aaf1.jpg": "/React-Portfolio/static/media/portfolio-pic.eed2aaf1.jpg",
+    "static/media/run-buddy-snap.54f8bab3.jpeg": "/React-Portfolio/static/media/run-buddy-snap.54f8bab3.jpeg",
+    "static/media/screen shot 3.35a26564.png": "/React-Portfolio/static/media/screen shot 3.35a26564.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e5c54f.js",
+    "static/js/2.65d3c471.chunk.js",
+    "static/css/main.50d026b6.chunk.css",
+    "static/js/main.aa1b652c.chunk.js"
+  ]
+}
