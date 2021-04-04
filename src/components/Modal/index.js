@@ -2,7 +2,7 @@
 import React from 'react';
 import { FaRegWindowClose } from "react-icons/fa";
 
-import resume1 from 'src/assets/images/resume.jpg';
+import resume1 from '../../assets/images/resume.jpg';
 
 function Modal ({onClose}) {
     

@@ -4,9 +4,10 @@ import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 
 import Project from '../Project';
-import feedingphilly from 'src/assets/images/feeding-philly.jpg'
-import madlibsphoto from 'src/assets/images/madlibs.png'
-import runbuddyphoto from 'src/assets/images/run-buddy.jpeg'
+import feedingphilly from '../../assets/images/feeding-philly.jpg'
+import madlibsphoto from '../../assets/images/madlibs.png'
+import runbuddyphoto from '../../assets/images/run-buddy.jpeg'
+import comingsoon from '../../assets/images/coming-soon.jpg'
 
 const projects = [
   {
@@ -29,6 +30,10 @@ const projects = [
       deploy: 'https://mllynch2k.github.io/run-buddy/',
       github: 'https://github.com/MLLynch2K/run-buddy'
       
+    },
+    {
+      name: 'Coming Soon',
+      src: comingsoon
     }
 ]
 

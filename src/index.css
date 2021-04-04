@@ -1,6 +1,6 @@
 a {
   text-decoration: none;
-  color: rgba(231, 80, 145, 0.74);
+  color: black;
 }
 
 .doc-icon :hover {
@@ -34,7 +34,7 @@ header {
 header h1 {
   align-self: flex-end;
   margin-bottom: 0px;
-  font-family: Brush Script MT;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
 }
 
@@ -77,7 +77,7 @@ img {
 }
 
 .about-me-container {
-  background-color: rgba(124, 123, 118, 0.219);
+  background-color: white;
   margin-left: 15%;
   margin-right: 15%;
   padding-top: 50px;
@@ -97,7 +97,7 @@ img {
 }
 
 .contact-container {
-  background-color: rgba(231, 80, 145, 0.74);
+  background-color: white;
   margin-left: 15%;
   margin-right: 15%;
   margin-bottom: 50px;
@@ -168,7 +168,7 @@ form textarea {
 }
 
 .modalTitle {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   margin-bottom: 25px;
 }
