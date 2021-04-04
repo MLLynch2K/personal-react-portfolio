@@ -3,14 +3,14 @@ My personal portfolio built using React.
 
 ***
 ### Table of Contents  
-1. [Screenshot]()
-2. [Deployed Link]()
-3. [Contributors](https://github.com/MLLynch2K/personal-react-portfolio#contributors)
-4. [Questions](https://github.com/MLLynch2K/personal-react-portfolio#questions)   
+1. [Screenshot](https://github.com/MLLynch2K/personal-react-portfolio#screenshot)
+1. [Deployed Link](https://github.com/MLLynch2K/personal-react-portfolio#deployed-link)
+2. [Contributors](https://github.com/MLLynch2K/personal-react-portfolio#contributors)
+3. [Questions](https://github.com/MLLynch2K/personal-react-portfolio#questions)   
 
-***   
+***
 ### Screenshot   
-![]()    
+![](src/assets/images/portfolio-app.png)   
 
 ***
 ### Deployed Link     
