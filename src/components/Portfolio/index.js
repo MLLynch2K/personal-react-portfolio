@@ -7,7 +7,7 @@ import Project from '../Project';
 import feedingphilly from '../../assets/images/feeding-philly.jpg'
 import madlibsphoto from '../../assets/images/madlibs.png'
 import runbuddyphoto from '../../assets/images/run-buddy.jpeg'
-import comingsoon from '../../assets/images/coming-soon.jpg'
+import steeptea from '../../assets/images/steeptea.png'
 
 const projects = [
   {
@@ -32,8 +32,10 @@ const projects = [
       
     },
     {
-      name: 'Coming Soon',
-      src: comingsoon
+      name: 'Steep Tea',
+      src: steeptea,
+      deploy: 'https://steep-tea-app.herokuapp.com/',
+      github: 'https://github.com/Gintstir/Tea-App'
     }
 ]
 

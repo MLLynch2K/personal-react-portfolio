@@ -10,7 +10,7 @@ My personal portfolio built using React.
 
 ***
 ### Screenshot   
-![](src/assets/images/portfolio-app.png)   
+![]()   
 
 ***
 ### Deployed Link     
